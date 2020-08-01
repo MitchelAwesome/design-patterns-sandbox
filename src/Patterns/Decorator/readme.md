@@ -1,4 +1,9 @@
-Decorator pattern to compress simple files. in this example we compress a simple css file.
-
+# Decorator Pattern
 https://refactoring.guru/design-patterns/decorator
+
+Decorator is a **structural design** pattern that lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
+
+# Sandbox
+In this sandbox we use the decorator pattern to compress a file.
+
 
