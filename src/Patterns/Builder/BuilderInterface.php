@@ -15,6 +15,4 @@ interface BuilderInterface
     public function setPineapple(): void;
 
     public function setHam(): void;
-
-    public function getProduct();
 }
